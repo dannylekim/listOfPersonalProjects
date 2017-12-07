@@ -13,3 +13,8 @@ Without further ado, here's the list:
 - Mobile/Desktop Application for music (Launch Pad) 
 - Younity The Formful Game, written in Unity C# 
 
+
+Technologies that I eventually want to be able to use: 
+
+React, Vue, Ruby/Ruby on Rails, Kotlin, Electron, Unity (better)
+
