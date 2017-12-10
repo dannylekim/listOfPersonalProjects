@@ -12,7 +12,8 @@ Without further ado, here's the list:
 - Web Application For Learning Data Structures and Algorithms in a step by step manner. Any stack. Better if also mobile. 
 - Mobile/Desktop Application for music (Launch Pad) 
 - Younity The Formful Game, written in Unity C# 
-
+- Webcrawler 
+- a mahine lesrning project 
 
 Technologies that I eventually want to be able to use: 
 
