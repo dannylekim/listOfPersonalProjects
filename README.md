@@ -13,7 +13,8 @@ Without further ado, here's the list:
 - Mobile/Desktop Application for music (Launch Pad) 
 - Younity The Formful Game, written in Unity C# 
 - Webcrawler 
-- a mahine lesrning project 
+- a mahine learning project 
+- a project using Spring Framework and Java
 
 Technologies that I eventually want to be able to use: 
 
