@@ -6,6 +6,7 @@ Without further ado, here's the list:
 
 - Team Organizer (Kantasky) in a MEAN Stack, Kotlin and Electron (**IN PROGRESS**) 
 - Brutalist Web Messaging Application similar to https://brutal.chat/ in either Ruby/Node and a front-end stack of React. Debatable back-end stack: Java, Erlang, Go, Django. Possible to also do this in Kotlin/Electron  
+  - use ML machine learning API to classify texts and make stats off it or have filters? Something in that vein 
 - Fitness League Application for Mobile, android specific. Written in Android studio, back-end either in Ruby or Java/C# 
 - Personal Website for UX Designs dannylekim.me
 - Personal Website for Blogs, Projects and resumes dannylekim.com
@@ -13,7 +14,7 @@ Without further ado, here's the list:
 - Mobile/Desktop Application for music (Launch Pad) 
 - Younity The Formful Game, written in Unity C# 
 - Webcrawler 
-- a mahine learning project 
+- a mahine learning project (Public APIs are actually really cool) 
 - a project using Spring Framework and Java
 
 Technologies that I eventually want to be able to use: 
