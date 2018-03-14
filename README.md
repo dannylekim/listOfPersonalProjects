@@ -18,7 +18,8 @@ Without further ado, here's the list:
 - a project using Spring Framework and Java
 - theTechStack (a website that allows you to choose what your sources of information is and allows you to format them into a viewable, easily digestable layout specifically for technology) 
 - music map: draw using certain brushes that have certain sounds and depending on how you draw will give a song. 
-You could have ML decide the mood, and decide on a chord progression, and be able to exporr the score
+You could have ML decide the mood, and decide on a chord progression, and be able to export the score
+- Based on a music preference/db training set, speculates a progression/melody that you start 
 
 Technologies that I eventually want to be able to use: 
 
