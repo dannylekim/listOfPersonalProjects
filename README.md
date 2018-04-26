@@ -20,6 +20,7 @@ Without further ado, here's the list:
 - music map: draw using certain brushes that have certain sounds and depending on how you draw will give a song. 
 You could have ML decide the mood, and decide on a chord progression, and be able to export the score
 - Based on a music preference/db training set, speculates a progression/melody that you start 
+- ledaSH, a shell script that's interactive on the web. Augmented with ability to open web pages, make requests in an easy fashion and it's own scripting language! 
 
 Technologies that I eventually want to be able to use: 
 
