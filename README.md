@@ -21,6 +21,7 @@ Without further ado, here's the list:
 You could have ML decide the mood, and decide on a chord progression, and be able to export the score
 - Based on a music preference/db training set, speculates a progression/melody that you start 
 - ledaSH, a shell script that's interactive on the web. Augmented with ability to open web pages, make requests in an easy fashion and it's own scripting language! 
+- Boulette -> a react native helper app for the game la boulette. Backend either in node or something really quick. Uses sockets.  
 
 Technologies that I eventually want to be able to use: 
 
